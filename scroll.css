@@ -49,3 +49,6 @@ code,ul {
 code{
   user-select: all;
 }
+.hidden{
+  display: none;
+}

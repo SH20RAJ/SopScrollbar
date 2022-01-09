@@ -25,3 +25,8 @@ document.getElementById('code').innerText = code;
 }
 
 setInterval(function(){showcode(clsn)},2000);
+
+let hide=()=>{
+  document.querySelector('.how-to-use').classList.toggle('hidden');
+  document.querySelector('#huh').innerHTML = "😇";
+}
