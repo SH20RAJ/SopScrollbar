@@ -2,6 +2,7 @@ body {
   background-color: #22262d;
   text-align: center;
   min-height: 100vh;
+  color: aqua;
 }
 .flx {
   display:flex;
