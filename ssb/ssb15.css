@@ -1,0 +1,23 @@
+/* SopScrollBar 15 - class="ssb15" 
+💖 More Here :- https://sh20raj.github.io/SopScrollbar/
+--How to Use--
+Copy the Class Name and Assign to the element where you want to see your ScrollBar. Examples
+- Body Tag. (To getting in whole website)
+- Iframe
+- Textarea
+- Div
+- and All other elements.
+*/
+.ssb15::-webkit-scrollbar-track {
+  border: 1px solid black;
+  background-color: #F5F5F5;
+}
+
+.ssb15::-webkit-scrollbar {
+  width: 10px;
+  background-color: #F5F5F5;
+}
+
+.ssb15::-webkit-scrollbar-thumb {
+  background-color: #000000;
+}

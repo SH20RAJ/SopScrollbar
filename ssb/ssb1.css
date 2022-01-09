@@ -1,4 +1,13 @@
-/* Scroll 1 */
+    
+/* SopScrollBar 1 - class="ssb1" 💖 More Here :- https://sh20raj.github.io/SopScrollbar/
+--How to Use--
+Copy the Class Name and Assign to the element where you want to see your ScrollBar. Example
+- Body Tag. (To getting in whole website)
+- Iframe
+- Textarea
+- Div
+- and All other elements.
+*/
 .ssb1::-webkit-scrollbar {
   width: 8px;
   height: 8px;

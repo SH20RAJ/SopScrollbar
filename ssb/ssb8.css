@@ -1,0 +1,21 @@
+/* SopScrollBar 8 - class="ssb8" 💖 More Here :- https://sh20raj.github.io/SopScrollbar/
+Auto Adjustable according to the text color
+--How to Use--
+Copy the Class Name and Assign to the element where you want to see your ScrollBar. Example
+- Body Tag. (To getting in whole website)
+- Iframe
+- Textarea
+- Div
+- and All other elements.
+*/
+.ssb8::-webkit-scrollbar,
+.ssb8::-webkit-scrollbar-thumb {
+  width: 30px;
+  border-radius: 13px;
+  background-clip: padding-box;
+  border: 10px solid transparent;
+}
+
+.ssb8::-webkit-scrollbar-thumb {       
+  box-shadow: inset 0 0 0 10px;
+}

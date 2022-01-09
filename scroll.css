@@ -8,6 +8,9 @@ body {
   color: aqua;
   font-family: 'Grand Hotel', cursive;
 }
+.scrollbar{
+  margin-top: -100px;
+}
 .getbtn{
   position: fixed;
   bottom: 4px;
@@ -42,4 +45,7 @@ body {
 }
 code,ul {
   text-align: left;
+}
+code{
+  user-select: all;
 }

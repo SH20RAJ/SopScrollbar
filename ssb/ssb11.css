@@ -1,0 +1,25 @@
+/* SopScrollBar 11 - class="ssb11" 
+💖 More Here :- https://sh20raj.github.io/SopScrollbar/
+Auto Adjustable according to the the background color (Transparent)
+--How to Use--
+Copy the Class Name and Assign to the element where you want to see your ScrollBar. Example
+- Body Tag. (To getting in whole website)
+- Iframe
+- Textarea
+- Div
+- and All other elements.
+*/
+.ssb11::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  background-color: #F5F5F5;
+}
+
+.ssb11::-webkit-scrollbar {
+  width: 10px;
+  background-color: #F5F5F5;
+}
+
+.ssb11::-webkit-scrollbar-thumb {
+  background-color: #000000;
+  border: 2px solid #555555;
+}
