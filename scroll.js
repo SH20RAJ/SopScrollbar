@@ -15,6 +15,7 @@ document.getElementById('code').classList.add(a);
 function showcode(a){
 //console.log(a)
 window.f = "ssb/"+ clsn +".css";
+document.getElementById('cs').innerHTML = clsn;
 //console.log(f)
 fetch (f)
 .then(x => x.text())
@@ -23,4 +24,4 @@ fetch (f)
 document.getElementById('code').innerText = code;
 }
 
-setInterval(function(){showcode(clsn)},4000);
+setInterval(function(){showcode(clsn)},2000);
