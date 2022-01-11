@@ -1,0 +1,98 @@
+
+SopScrollbar - Free Custom Css Scrollbar Codes
+
+
+You can use the ScrollBar anywhere. 
+i.e. ->
+Body Tag. (To getting in whole website)
+Iframe
+Textarea
+Div
+
+-> Intro
+-> Introducing SopScrollBar
+ -> Introducing SopProducts 
+  -> nicepages.io to create landing pages without coding 
+-> Use in Blogger
+-> Use in Simple Static Site
+ -> Use in iframes
+-> Use of CDNs
+ -> allssb cdn uses
+
+-> Outro
+ -> Short JavaSCript Trick Videos
+ -> End
+
+
+It's easy to install. Just Select Scroll Bar -> Copy the code -> Paste on Website
+
+I had shown a demo Custom scroll bar in the video.
+But Now I came with a Full Package of Stylish Custom Scroll Bars. Easy to integrate.
+
+I will show you that how to install it but firstly let's know about SopProducts.
+
+Sop Products - SopLoader | SopPlayer | SopGames | SopScrollBar | And More...
+
+Our More Products are Coming on SopProducts Stay Updated...
+I had created the landing page of SopProducts Using this Website -> Cover about this - May be in Next Video
+
+
+Let's come back to SopScrollBar
+
+
+You can Use the Css code or Use the CDNs.
+I will show the uses of both.
+
+-> Using Code
+
+Now after adding css (Using Style tag or css file) we will assign the class ssb4 where we want to see the Custom Scroll Bar.
+
+In case we want in whole website so body is our target.
+
+See we got our ScrollBar. Let's Do it Using CDN.
+
+Let's see the Uses of allssb cdn (will be larger in size because it contain all the style of ssbs and after integrating this you just have to change the class name to get a new SopScrollBar.)
+
+Thats how it will work.
+
+Let's See Uses in iframe and Code Element.
+
+
+So that was all check out this website. This will indexed on google soon and checkout all SopProducts.
+Stay Tuned...
+
+
+Thanks For Watching.....
+/
+/
+/
+/
+
+/
+/
+/
+[][][{}{}]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(next video)
