@@ -1,6 +1,6 @@
 # SopScrollbar
 ## SopScrollbar - Free Custom Css Scrollbar Codes
-https://sopscrollbar.sh20raj.repl.co/ || https://sh20raj.github.io/SopScrollbar/
+https://sh20raj.github.io/SopScrollbar/
 
 ![logo](https://user-images.githubusercontent.com/66713844/148688287-a8049787-d67f-4337-b510-0f039b9e19cc.jpg)
 
